@@ -1,3 +1,4 @@
+
 # My first simple print script
 # 1. Personal info print
 print("Hello, I'm John Ramiel Muego! 1st year BSIT-1O") 
