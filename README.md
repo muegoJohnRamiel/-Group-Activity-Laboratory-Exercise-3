@@ -13,7 +13,7 @@ me = "Group Member 1"
 myself = "Group Member 2"  
 Only_Me ="Group Member 3"
 # 4. Many Values to Multiple Variables
-member1, member2, member3 = "Me", "Myself", "Only Me"  
+member1, member2, member3 = "Me", "Myself", "OnlyMe"  
 
 # 5. One Value to Multiple Variables
 semester, term, period = "First", "First", "First"
